@@ -1,0 +1,148 @@
+.log {
+    height: 40px;
+}
+
+.text {
+    font-size: 35px;
+    color: black;
+}
+
+.mx {
+    margin-right: 40px;
+}
+
+.bank {
+    height: 35px;
+}
+
+.up {
+    height: 35px;
+}
+
+.up2 {
+    margin-bottom: 80px;
+}
+
+.map {
+    margin-top: 100px;
+    width: 100%;
+    height: 500px;
+}
+
+.bottom {
+    margin-bottom: 80px;
+}
+
+[class*="copyrights-pane"] {
+    display: none !important;
+}
+
+.balloon__address {
+    color: yellow;
+}
+
+.balloon a {
+    color: red;
+}
+
+[class*="balloon__close-button"] {
+    opacity: 1;
+}
+
+.back {
+    height: 35px;
+}
+
+.header {
+    z-index: 10;
+}
+
+.card1{
+    margin-top: 130px;
+    margin-bottom: 20px;
+}
+
+.about{
+    margin-top: 140px;
+}
+
+.card {
+    height: 200px;
+}
+
+.card2 {
+    height: 300px;
+}
+
+.taxi {
+    height: 70px;
+    width: 180px;
+}
+
+.footer-taxi{
+    height: 90px;
+    width: 175px;
+    margin-bottom: 100px;
+}
+
+.m-b-20 {margin-bottom: 20px}
+      .quote {position: relative;}
+      .quote blockquote {
+       padding: 0px;
+       border: 0;
+       margin: 0;
+       font-size: 14px;
+       font-style: italic;
+       -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+       -ms-border-radius: 8px;
+       border-radius: 8px;
+      }
+      .quote blockquote p {
+       color: #fff;
+       padding-top: 25px;
+       padding-bottom: 45px;
+       padding-left: 30px;
+       padding-right: 30px;
+      }
+      .quote.green blockquote {
+       height: 120px;
+      }
+      /* .quote.green  {
+       border-top-color: #92006e;
+      } */
+      .quote.dark blockquote {
+        height: 120px;
+      }
+
+     
+      .quote-footer .quote-author-img img {
+       float: left;
+       max-width: 90px;
+       width: 90px;
+       height: 90px;
+       -webkit-border-radius: 50%;
+       -moz-border-radius: 50%;
+       -ms-border-radius: 50%;
+       border-radius: 50%;
+       margin-left: -5px;
+       margin-top: -11px;
+       position: relative;
+       z-index: 1;
+       padding: 5px;
+       background-color: #fff;
+      }
+
+.tel {
+    height: 20px;
+}
+
+.modal-backdrop {
+    z-index: 1;
+}
+
+.modal.fade.show {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
